@@ -1,0 +1,801 @@
+{
+    "Format": "1.3",
+    "Changes": [
+        // Portraits
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Abigail",
+            "FromFile": "assets/character/strawabigail.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Alex",
+            "FromFile": "assets/character/strawalex.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Bouncer",
+            "FromFile": "assets/character/strawbouncer.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Caroline",
+            "FromFile": "assets/character/strawcaroline.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Clint",
+            "FromFile": "assets/character/strawclint.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/ClothesTherapyCharacters",
+            "FromFile": "assets/character/strawclothestherapycharacters.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Demetrius",
+            "FromFile": "assets/character/strawdemetrius.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Dwarf",
+            "FromFile": "assets/character/strawdwarf.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Elliott",
+            "FromFile": "assets/character/strawelliott.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Emily",
+            "FromFile": "assets/character/strawemily.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Evelyn",
+            "FromFile": "assets/character/strawevelyn.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/George",
+            "FromFile": "assets/character/strawgeorge.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Governor",
+            "FromFile": "assets/character/strawgovernor.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Gunther",
+            "FromFile": "assets/character/strawgunther.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Gus",
+            "FromFile": "assets/character/strawgus.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Haley",
+            "FromFile": "assets/character/strawhaley.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Harvey",
+            "FromFile": "assets/character/strawharvey.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Henchman",
+            "FromFile": "assets/character/strawhenchman.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Jas",
+            "FromFile": "assets/character/strawjas.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/LeahExFemale",
+            "FromFile": "assets/character/strawLeahEx.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/LeahExMale",
+            "FromFile": "assets/character/strawLeahEx.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Jodi",
+            "FromFile": "assets/character/strawjodi.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Kent",
+            "FromFile": "assets/character/strawkent.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Krobus",
+            "FromFile": "assets/character/strawKrobus.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Leah",
+            "FromFile": "assets/character/strawleah.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Lewis",
+            "FromFile": "assets/character/strawlewis.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Linus",
+            "FromFile": "assets/character/strawlinus.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Mariner",
+            "FromFile": "assets/character/strawmariner.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Marlon",
+            "FromFile": "assets/character/strawmarlon.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Marnie",
+            "FromFile": "assets/character/strawmarnie.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Maru",
+            "FromFile": "assets/character/strawmaru.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Maru_Hospital",
+            "FromFile": "assets/character/strawmaru_hospital.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Morris",
+            "FromFile": "assets/character/strawmorris.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/MrQi",
+            "FromFile": "assets/character/strawmrqi.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Pam",
+            "FromFile": "assets/character/strawPam.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Penny",
+            "FromFile": "assets/character/strawPenny.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Peirre",
+            "FromFile": "assets/character/strawPierre.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Robin",
+            "FromFile": "assets/character/strawrobin.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Sam",
+            "FromFile": "assets/character/strawsam.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Sandy",
+            "FromFile": "assets/character/strawsandy.png"
+        },
+       {
+            "Action": "EditImage",
+            "Target": "Characters/Sebastian",
+            "FromFile": "assets/character/strawsebastian.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Shane",
+            "FromFile": "assets/character/strawshane.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Shane_JojaMart",
+            "FromFile": "assets/character/strawshane_jojamart.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Vincent",
+            "FromFile": "assets/character/strawvincent.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Willy",
+            "FromFile": "assets/character/strawwilly.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Wizard",
+            "FromFile": "assets/character/drinkwizard.png"
+        },
+        // Portraits
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Abigail",
+            "FromFile": "assets/portrait/strawabigailportraits.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Alex",
+            "FromFile": "assets/portrait/strawalexportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Bouncer",
+            "FromFile": "assets/portrait/strawbouncerportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Caroline",
+            "FromFile": "assets/portrait/strawcarolineportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Clint",
+            "FromFile": "assets/portrait/strawclintportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Demetrius",
+            "FromFile": "assets/portrait/strawdemetriusportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Dwarf",
+            "FromFile": "assets/portrait/strawdwarfportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Elliott",
+            "FromFile": "assets/portrait/strawelliottportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Emily",
+            "FromFile": "assets/portrait/strawemilyportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Evelyn",
+            "FromFile": "assets/portrait/strawevelynportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/George",
+            "FromFile": "assets/portrait/strawgeorgeportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Governor",
+            "FromFile": "assets/portrait/strawgovernorportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Grandpa",
+            "FromFile": "assets/portrait/strawgrandpaportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Gunther",
+            "FromFile": "assets/portrait/strawguntherportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Gus",
+            "FromFile": "assets/portrait/strawgusportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Haley",
+            "FromFile": "assets/portrait/strawhaleyportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Harvey",
+            "FromFile": "assets/portrait/strawharveyportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Henchman",
+            "FromFile": "assets/portrait/strawhenchmanportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Jas",
+            "FromFile": "assets/portrait/strawjasportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Jodi",
+            "FromFile": "assets/portrait/strawjodiportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Kent",
+            "FromFile": "assets/portrait/strawkentportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Krobus",
+            "FromFile": "assets/portrait/strawKrobusportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Leah",
+            "FromFile": "assets/portrait/strawleahportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Lewis",
+            "FromFile": "assets/portrait/strawlewisportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Linus",
+            "FromFile": "assets/portrait/strawlinusportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Marlon",
+            "FromFile": "assets/portrait/strawmarlonportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Marnie",
+            "FromFile": "assets/portrait/strawmarnieportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Maru",
+            "FromFile": "assets/portrait/strawmaruportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Maru_Hospital",
+            "FromFile": "assets/portrait/strawmaru_hospitalportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Morris",
+            "FromFile": "assets/portrait/strawmorrisportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/MrQi",
+            "FromFile": "assets/portrait/strawmrqiportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Pam",
+            "FromFile": "assets/portrait/strawPamportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Penny",
+            "FromFile": "assets/portrait/strawPennyportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Peirre",
+            "FromFile": "assets/portrait/strawPierreportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Robin",
+            "FromFile": "assets/portrait/strawrobinportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Sam",
+            "FromFile": "assets/portrait/strawsamportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Sandy",
+            "FromFile": "assets/portrait/strawsandyportrait.png"
+        },
+       {
+            "Action": "EditImage",
+            "Target": "Portraits/Sebastian",
+            "FromFile": "assets/portrait/strawsebastianportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Shane",
+            "FromFile": "assets/portrait/strawshaneportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Vincent",
+            "FromFile": "assets/portrait/strawvincentportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Willy",
+            "FromFile": "assets/portrait/strawwillyportrait.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Wizard",
+            "FromFile": "assets/portrait/drinkwizardportrait.png"
+        },
+        // Cow Photos
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/cowPhotos",
+            "FromFile": "assets/misc/strawcowphotos.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/cowPhotosWinter",
+            "FromFile": "assets/misc/strawcowphotoswinter.png"
+        },
+        // Cursors file
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/misc/strawcursors.png",
+            "FromArea":
+            {
+                "X": 640,
+                "Y": 736,
+                "Width": 64,
+                "Height": 80
+            },
+            "ToArea":
+            {
+                "X": 640,
+                "Y": 736,
+                "Width": 64,
+                "Height": 80
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/misc/strawcursors.png",
+            "FromArea":
+            {
+                "X": 384,
+                "Y": 1311,
+                "Width": 16,
+                "Height": 19
+            },
+            "ToArea":
+            {
+                "X": 384,
+                "Y": 1311,
+                "Width": 16,
+                "Height": 19
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/misc/strawcursors.png",
+            "FromArea":
+            {
+                "X": 288,
+                "Y": 1349,
+                "Width": 96,
+                "Height": 103
+            },
+            "ToArea":
+            {
+                "X": 288,
+                "Y": 1349,
+                "Width": 96,
+                "Height": 103
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/misc/strawcursors.png",
+            "FromArea":
+            {
+                "X": 384,
+                "Y": 1330,
+                "Width": 40,
+                "Height": 110
+            },
+            "ToArea":
+            {
+                "X": 384,
+                "Y": 1330,
+                "Width": 40,
+                "Height": 110
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/misc/strawcursors.png",
+            "FromArea":
+            {
+                "X": 424,
+                "Y": 1387,
+                "Width": 15,
+                "Height": 5
+            },
+            "ToArea":
+            {
+                "X": 424,
+                "Y": 1387,
+                "Width": 15,
+                "Height": 5
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/misc/strawcursors.png",
+            "FromArea":
+            {
+                "X": 194,
+                "Y": 1413,
+                "Width": 16,
+                "Height": 15
+            },
+            "ToArea":
+            {
+                "X": 194,
+                "Y": 1413,
+                "Width": 16,
+                "Height": 15
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/misc/strawcursors.png",
+            "FromArea":
+            {
+                "X": 57,
+                "Y": 1430,
+                "Width": 40,
+                "Height": 10
+            },
+            "ToArea":
+            {
+                "X": 57,
+                "Y": 1430,
+                "Width": 40,
+                "Height": 10
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/misc/strawcursors.png",
+            "FromArea":
+            {
+                "X": 0,
+                "Y": 1360,
+                "Width": 114,
+                "Height": 63
+            },
+            "ToArea":
+            {
+                "X": 0,
+                "Y": 1360,
+                "Width": 114,
+                "Height": 63
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/misc/strawcursors.png",
+            "FromArea":
+            {
+                "X": 105,
+                "Y": 1318,
+                "Width": 13,
+                "Height": 31
+            },
+            "ToArea":
+            {
+                "X": 105,
+                "Y": 1318,
+                "Width": 13,
+                "Height": 31
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/misc/strawcursors.png",
+            "FromArea":
+            {
+                "X": 276,
+                "Y": 1885,
+                "Width": 48,
+                "Height": 61
+            },
+            "ToArea":
+            {
+                "X": 276,
+                "Y": 1885,
+                "Width": 48,
+                "Height": 61
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/misc/strawcursors.png",
+            "FromArea":
+            {
+                "X": 405,
+                "Y": 1854,
+                "Width": 47,
+                "Height": 33
+            },
+            "ToArea":
+            {
+                "X": 405,
+                "Y": 1854,
+                "Width": 47,
+                "Height": 33
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/misc/strawcursors.png",
+            "FromArea":
+            {
+                "X": 416,
+                "Y": 1936,
+                "Width": 116,
+                "Height": 60
+            },
+            "ToArea":
+            {
+                "X": 416,
+                "Y": 1936,
+                "Width": 116,
+                "Height": 60
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/misc/strawcursors.png",
+            "FromArea":
+            {
+                "X": 555,
+                "Y": 1957,
+                "Width": 18,
+                "Height": 34
+            },
+            "ToArea":
+            {
+                "X": 555,
+                "Y": 1957,
+                "Width": 18,
+                "Height": 34
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/misc/strawcursors.png",
+            "FromArea":
+            {
+                "X": 600,
+                "Y": 1957,
+                "Width": 64,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": 600,
+                "Y": 1957,
+                "Width": 64,
+                "Height": 32
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/misc/strawcursors.png",
+            "FromArea":
+            {
+                "X": 528,
+                "Y": 1860,
+                "Width": 32,
+                "Height": 33
+            },
+            "ToArea":
+            {
+                "X": 528,
+                "Y": 1860,
+                "Width": 32,
+                "Height": 33
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/misc/strawcursors.png",
+            "FromArea":
+            {
+                "X": 413,
+                "Y": 305,
+                "Width": 253,
+                "Height": 28
+            },
+            "ToArea":
+            {
+                "X": 413,
+                "Y": 305,
+                "Width": 253,
+                "Height": 28
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/misc/strawcursors.png",
+            "FromArea":
+            {
+                "X": 517,
+                "Y": 361,
+                "Width": 169,
+                "Height": 28
+            },
+            "ToArea":
+            {
+                "X": 517,
+                "Y": 361,
+                "Width": 169,
+                "Height": 28
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/misc/strawcursors.png",
+            "FromArea":
+            {
+                "X": 555,
+                "Y": 1422,
+                "Width": 69,
+                "Height": 30
+            },
+            "ToArea":
+            {
+                "X": 555,
+                "Y": 1422,
+                "Width": 69,
+                "Height": 30
+            }
+        }
+    ]
+}
