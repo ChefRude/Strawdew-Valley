@@ -202,7 +202,7 @@
             "Target": "Characters/Sandy",
             "FromFile": "assets/character/strawsandy.png"
         },
-       {
+        {
             "Action": "EditImage",
             "Target": "Characters/Sebastian",
             "FromFile": "assets/character/strawsebastian.png"
@@ -219,7 +219,7 @@
         },
         {
             "Action": "EditImage",
-            "Target": "Characters/Vincent", 
+            "Target": "Characters/Vincent",
             "FromFile": "assets/character/strawvincent.png"
         },
         {
@@ -418,7 +418,7 @@
             "Target": "Portraits/Sandy",
             "FromFile": "assets/portrait/strawsandyportrait.png"
         },
-       {
+        {
             "Action": "EditImage",
             "Target": "Portraits/Sebastian",
             "FromFile": "assets/portrait/strawsebastianportrait.png"
@@ -443,6 +443,11 @@
             "Target": "Portraits/Wizard",
             "FromFile": "assets/portrait/drinkwizardportrait.png"
         },
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Gil",
+            "FromFile": "assets/portrait/strawgilportrait.png"
+        },
         // Cow Photos
         {
             "Action": "EditImage",
@@ -454,6 +459,200 @@
             "Target": "LooseSprites/cowPhotosWinter",
             "FromFile": "assets/misc/strawcowphotoswinter.png"
         },
+
+        //Town Interior
+
+        {
+            "Action": "EditImage",
+            "Target": "Maps/townInterior",
+            "FromFile": "assets/misc/townInterior.png",
+            "FromArea":
+            {
+                "X": 176,
+                "Y": 624,
+                "Width": 32,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": 176,
+                "Y": 624,
+                "Width": 32,
+                "Height": 32
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Maps/townInterior",
+            "FromFile": "assets/misc/townInterior.png",
+            "FromArea":
+            {
+                "X": 176,
+                "Y": 656,
+                "Width": 32,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": 176,
+                "Y": 656,
+                "Width": 32,
+                "Height": 32
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Maps/townInterior",
+            "FromFile": "assets/misc/townInterior.png",
+            "FromArea":
+            {
+                "X": 208,
+                "Y": 656,
+                "Width": 32,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": 208,
+                "Y": 656,
+                "Width": 32,
+                "Height": 32
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Maps/townInterior",
+            "FromFile": "assets/misc/townInterior.png",
+            "FromArea":
+            {
+                "X": 352,
+                "Y": 944,
+                "Width": 32,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": 352,
+                "Y": 944,
+                "Width": 32,
+                "Height": 32
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Maps/townInterior",
+            "FromFile": "assets/misc/townInterior.png",
+            "FromArea":
+            {
+                "X": 368,
+                "Y": 1008,
+                "Width": 48,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": 368,
+                "Y": 1008,
+                "Width": 48,
+                "Height": 32
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "townInterior",
+            "FromFile": "assets/misc/townInterior.png",
+            "FromArea":
+            {
+                "X": 176,
+                "Y": 624,
+                "Width": 32,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": 176,
+                "Y": 624,
+                "Width": 32,
+                "Height": 32
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "townInterior",
+            "FromFile": "assets/misc/townInterior.png",
+            "FromArea":
+            {
+                "X": 176,
+                "Y": 656,
+                "Width": 32,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": 176,
+                "Y": 656,
+                "Width": 32,
+                "Height": 32
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "townInterior",
+            "FromFile": "assets/misc/townInterior.png",
+            "FromArea":
+            {
+                "X": 208,
+                "Y": 656,
+                "Width": 32,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": 208,
+                "Y": 656,
+                "Width": 32,
+                "Height": 32
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "townInterior",
+            "FromFile": "assets/misc/townInterior.png",
+            "FromArea":
+            {
+                "X": 352,
+                "Y": 944,
+                "Width": 32,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": 352,
+                "Y": 944,
+                "Width": 32,
+                "Height": 32
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "townInterior",
+            "FromFile": "assets/misc/townInterior.png",
+            "FromArea":
+            {
+                "X": 368,
+                "Y": 1008,
+                "Width": 48,
+                "Height": 32
+            },
+            "ToArea":
+            {
+                "X": 368,
+                "Y": 1008,
+                "Width": 48,
+                "Height": 32
+            }
+        },
+
         // Cursors file
         {
             "Action": "EditImage",
